@@ -1,4 +1,4 @@
-let timeVal = 20;
+let timeVal = 60;
 let score = 0;
 var hitVal;
 function makeBubble() {
