@@ -1,3 +1,4 @@
+<div align="center">
 # BUBBLE‑GAME  
 *Pop, Score, Conquer—Unleash Your Reflexes Now*
 
@@ -56,3 +57,5 @@ Launch the application in development mode:
 
 ```bash
 npm start
+
+</div>
