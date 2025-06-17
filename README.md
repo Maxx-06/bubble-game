@@ -6,6 +6,18 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [🎯 Overview](#-overview)
+- [📦 Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [🚀 Usage](#-usage)
+  - [Run the Game](#run-the-game)
+  - [Testing](#testing)
+
+---
+
 ## 🎯 Overview  
 Bubble‑game is an interactive browser‑based bubble‑popping game that showcases dynamic DOM manipulation, real-time game state management, and engaging user interactions. It provides a compact yet comprehensive example of implementing core gameplay mechanics in a web application.
 
@@ -28,3 +40,19 @@ Bubble‑game is an interactive browser‑based bubble‑popping game that showc
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/Maxx‑06/bubble‑game.git
+
+2. **Navigate to the project folder:**
+   ```bash
+   cd bubble‑game
+3. **Install dependencies:**
+   ```bash
+   npm install
+   
+## 🚀 Usage
+
+### Run the Game
+
+Launch the application in development mode:
+
+```bash
+npm start
