@@ -5,6 +5,7 @@
 **Built with the tools and technologies:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
+</div>
 ---
 
 ## 📋 Table of Contents
@@ -58,4 +59,4 @@ Launch the application in development mode:
 ```bash
 npm start
 
-</div>
+
